@@ -21,7 +21,7 @@ You can still see your history, summaries and plans, change settings and export 
 Logging new temptations and check-ins needs the one-time full version.
 
 **How do I get my data out?**
-Settings → Data → Export (CSV files).
+Settings → Data → Export as CSV.
 
 **Why doesn't the app suggest a place?**
 It needs location access (Settings → Privacy & Security → Location Services → Temptation Tracker)
